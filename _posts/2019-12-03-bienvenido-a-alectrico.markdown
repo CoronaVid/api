@@ -4,7 +4,7 @@ title:  "Bienvenido a CoronaVid!"
 date:   2019-12-03 06:18:58 -0300
 categories: corona virus
 ---
-Los síntomas de una infección viral son bien conocidas por los médicos. El virus COVID-19 no ha sido una gran sorpresa en ese sentido. Sin embargo la gran contagiosidad de este virus amenaza de tal forma las capacidades asistenciales de salud de los países que conviene enfocarse muy seria y rápidamente en los pacientes potenciales antes de que sus sintomatología exija tratamientos intrahospitalarios.
+Los síntomas de una infección viral son bien conocidas por los médicos. El virus COVID-19 no ha sido una gran sorpresa en ese sentido. Lo que ha resultado realmente sorprendente para todos en el planeta, es la gran contagiosidad que ha demostrado. Conviene tratar tempranamente a las personas infectadas antes de que la progresión geométrica de los contagiados haga colapsar las capacidades de atención de salud.
 
 Conavid actua como una detector temprano de síntomas de COVID-19 permitiendo a los consumidores de sus datos, hecho a través de una api, la toma de acción rápida. 
 
