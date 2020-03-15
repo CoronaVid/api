@@ -17,7 +17,3 @@ end
 no_hay_camas?('Hospital')
 #=> prints 'Aislar en infraestructura municipal' to STDOUT.
 {% endhighlight %}
-
-Revise [help][coronavid.cl] para estar consciente de sus síntomas virales.
-
-[coronavid]: https://help.coronavid.cl
