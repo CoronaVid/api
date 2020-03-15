@@ -17,12 +17,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aléctrico
-email: ventas@alectrico.cl
+title: CoronaVid
+email: alexander.espinosa.hernandez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Electricista a Domicilio en Providencia.
+  Desarrollador
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://doc.alectrico.cl/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://api.coronavid.cl/ # the base hostname & protocol for your site, e.g. http://example.com
 #witter_username: 
 github_username:  alectrico-pro
 
